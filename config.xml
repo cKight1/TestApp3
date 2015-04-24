@@ -31,9 +31,9 @@
 	
 	<gap:plugin name="org.apache.cordova.splashscreen" />
 	
-	<platform name="android">
-		<!-- you can use any density that exists in the Android project -->
-		<splash src="splash.png" density="land-hdpi"/>
-	</platform>
+	<gap:splash src="img/splash-ldpi.png"       gap:platform="android" gap:qualifier="port-ldpi" />
+    <gap:splash src="img/splash-mdpi.png"       gap:platform="android" gap:qualifier="port-mdpi" />
+    <gap:splash src="img/splash-hdpi.png"       gap:platform="android" gap:qualifier="port-hdpi" />
+    <gap:splash src="img/splash-xhdpi.png"      gap:platform="android" gap:qualifier="port-xhdpi" />
 	
 </widget>
