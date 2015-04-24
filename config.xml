@@ -28,4 +28,7 @@
 	</feature>
 	
 	<icon src="icon.png" />
+	
+	<gap:plugin name="org.apache.cordova.splashscreen" />
+	
 </widget>
