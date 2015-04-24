@@ -23,12 +23,5 @@
     android:largeScreens="true" 
     android:xlargeScreens="true" />-->
 	
-	<feature name="SplashScreen">
-		<param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
-	</feature>
-	
 	<icon src="icon.png" />
-	
-	<gap:plugin name="org.apache.cordova.splashscreen" />
-	
 </widget>
