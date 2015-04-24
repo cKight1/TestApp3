@@ -22,4 +22,6 @@
     android:normalScreens="true" 
     android:largeScreens="true" 
     android:xlargeScreens="true" />
+	
+	<icon src="icon.png" />
 </widget>
