@@ -30,10 +30,10 @@
 	<icon src="icon.png" />
 	
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	
+	<!--
 	<gap:splash src="img/splash-ldpi.png"       gap:platform="android" gap:qualifier="port-ldpi" />
     <gap:splash src="img/splash-mdpi.png"       gap:platform="android" gap:qualifier="port-mdpi" />
     <gap:splash src="img/splash-hdpi.png"       gap:platform="android" gap:qualifier="port-hdpi" />
-    <gap:splash src="img/splash-xhdpi.png"      gap:platform="android" gap:qualifier="port-xhdpi" />
+    <gap:splash src="img/splash-xhdpi.png"      gap:platform="android" gap:qualifier="port-xhdpi" />-->
 	
 </widget>
